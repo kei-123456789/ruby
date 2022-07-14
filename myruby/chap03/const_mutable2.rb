@@ -1,0 +1,3 @@
+VALUES = [10, 20, 30]
+VALUES[0] = 100
+puts VALUES
